@@ -33,6 +33,6 @@ int main(int argc, char *argv[])
 			num -= coins[j];
 		}
 	}
-	printf("%d\n", result);	
+	printf("%d\n", result);
 	return (0);
 }
